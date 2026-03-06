@@ -1,7 +1,9 @@
 TRACK SERIES - SOLANA PROGRAM
+
 "Track Series" es un programa desarrollado en Solana Playground utilizando el framework Anchor y el lenguaje de programación Rust.
 
 El objetivo principal del programa es permitir que cada usuario pueda llevar un registro de las series que está viendo o que ya terminó. Cada usuario puede crear su propio tracker de series, el cual se encuentra asociado a su wallet en Solana mediante una PDA, donde puede guardar información como:
+
 •	Nombre de la serie
 •	Número de temporadas
 •	Plataforma de streaming
