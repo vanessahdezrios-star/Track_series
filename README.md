@@ -5,9 +5,13 @@ TRACK SERIES - SOLANA PROGRAM
 El objetivo principal del programa es permitir que cada usuario pueda llevar un registro de las series que está viendo o que ya terminó. Cada usuario puede crear su propio tracker de series, el cual se encuentra asociado a su wallet en Solana mediante una PDA, donde puede guardar información como:
 
 •	Nombre de la serie
+
 •	Número de temporadas
+
 •	Plataforma de streaming
+
 •	Estado actual de la serie (viendo, pausada, en curso, terminada)
+
 
 El programa permite realizar:
 1.	Un tracker de series, la cual estará asociado a la wallet personal de cada usuario.
